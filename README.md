@@ -1,4 +1,4 @@
-You must complete the following scenerio.
+```You must complete the following scenerio.
 
 A European gaming company is moving to GCP.  It has the following requirements in it's first stage migration to the Cloud:
 
